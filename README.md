@@ -1,6 +1,6 @@
 Hi!
 
-Welcome to the ASCII video program repository. This program converts videos to ASCII art. There are a few things to note before you run this program.
+Welcome to the ASCII video converter repository. This program converts videos to ASCII art. There are a few things to note before you run this program.
 
 ***Closing the window does not end the program, press 'q' to end it!***
 
@@ -28,3 +28,9 @@ ASCIIconvert(resizedFrame);
 Then you'll be able to see the frame rate and frame count displayed in the terminal.
 
 Thank you for checking out my repository and enjoy.
+
+
+
+
+https://github.com/user-attachments/assets/c665f831-89d6-4ccb-b756-9b3bc0a65bbd
+
