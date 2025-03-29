@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/dc581c5b-0ea8-41ea-be14-fd4657688a43
+
 Hi!
 
 Welcome to the ASCII video converter repository. This program converts videos to ASCII art. There are a few things to note before you run this program.
